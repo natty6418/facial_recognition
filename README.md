@@ -7,3 +7,7 @@ This project demonstrates a complete face recognition pipeline in Python. It inc
 - Recognize faces in images and video
 
 Requirements: Python, OpenCV, face_recognition, icrawler, imutils.
+
+<div align="center">
+  <img src="./assets/fast5.gif" alt="Video Demo" />
+</div>
