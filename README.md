@@ -8,6 +8,6 @@ This project demonstrates a complete face recognition pipeline in Python. It inc
 
 Requirements: Python, OpenCV, face_recognition, icrawler, imutils.
 
-<div align="center">
+<p align="center">
   <img src="./assets/fast5.gif" alt="Video Demo" />
-</div>
+</p>
